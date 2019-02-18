@@ -1,0 +1,59 @@
+INPUT:
+5 5
+1 2 N
+MMMRMM
+3 3 S
+MLM
+ext
+
+OUTPUT:
+3 5 E
+4 2 E
+
+INPUT:
+1 1
+1 1 N
+LMLMLM
+0 0 S
+LMLMLM
+ext
+
+OUTPUT:
+1 0 E
+0 1 W
+
+INPUT:
+10 10
+
+0 0 N
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+ext
+
+OUTPUT:
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+Robot hit boundary and stayed in position 0 10
+
+0 10 N
+
